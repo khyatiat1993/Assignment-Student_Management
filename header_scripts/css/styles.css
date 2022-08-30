@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+body {
+	width: 100%;
+	max-width: 1700px;
+	margin: 0 auto;
+	padding: 0;
+	font-family: "lato";
+	/*font-family: Helvetica;*/
+	font-size: 15px;
+}
+.main_css {
+	width: 98%;
+	max-width: 1700px;
+	float: none;
+	margin: 0 auto;
+	padding: 1%;
+}
+.page_header_css, .page_content_css {
+    padding: 1%;
+    width: 98%;
+    max-width: inherit;
+    float: none;
+}
+.page_header_css {
+    text-align: end;
+}
+.site_logo_img {
+	max-width: 100px;
+	max-height: 50px;
+}
+.file_upload_css {
+	padding: 150px 0 0;
+    height: 100px;
+    display: block;
+    float: none;
+    max-width: 500px;
+    margin: 0 auto;
+}
