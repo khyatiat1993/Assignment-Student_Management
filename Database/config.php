@@ -4,7 +4,7 @@
 $server = "localhost";
 $user = "root";
 $password = "";
-$database = "icloudems_students";
+$database = "students";
 
 // Create connection
 $connect = new mysqli($server, $user, $password, $database);
